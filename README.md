@@ -1,6 +1,6 @@
 # WiiPlayWEB
 
-[Small Fry](https://i.imgur.com/mn2ho6v.png)
+![Small Fry](https://i.imgur.com/mn2ho6v.png)
 
 Adds the Wii Play fish to WEBFISHING! All fish are found in lakes and rivers.
 
