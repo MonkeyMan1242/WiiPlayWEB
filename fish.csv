@@ -1,0 +1,7 @@
+item_name,item_description,catch_blurb,loot_table,tier,catch_difficulty,average_size,loot_weight,sell_value,obtain_xp,generate_worth,rare,alive
+Small Fry,Wii Play,A highly aggressive and unappealing fish.,lake,0,4,20,0.8,7,30,TRUE,FALSE,TRUE
+Plain Ol' Fish,Wii Play,"Just a fish, nothing more special to it.",lake,0,2,40,0.8,15,50,TRUE,FALSE,TRUE
+Nibbler,Wii Play,It's so colorful!,lake,0,3,50,0.6,25,60,TRUE,FALSE,TRUE
+Touchy Fish,Wii Play,Easily startled!,lake,1,4,50,0.4,40,80,TRUE,FALSE,TRUE
+King of the Pond,Wii Play,Checkmate!,lake,2,6,100,0.1,70,200,TRUE,TRUE,TRUE
+Mystery Fish,Wii Play,What is this thing?,lake,1,5,100,0.1,40,150,TRUE,TRUE,TRUE
