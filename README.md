@@ -6,9 +6,6 @@ Adds the Wii Play fish to WEBFISHING! All fish are found in lakes and rivers.
 
 ## New content!
 
-<details>
-<summary>List of new fish!</summary>
-
 | Name | Rarity |
 | --- | --- |
 | Small Fry | Common |
@@ -17,8 +14,6 @@ Adds the Wii Play fish to WEBFISHING! All fish are found in lakes and rivers.
 | Touchy Fish | Rare |
 | King of the Pond | Very Rare |
 | Mystery Fish | Very Rare |
-
-</details>
 
 [(SPOILERS) Click here for the full stats of every fish added in this mod!](https://github.com/MonkeyMan1242/WiiPlayWEB/blob/main/fish.csv)
 
